@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SildCave
-- 👀 I’m interested in writing whatever comes to my mind
-- 🌱 I’m currently learning logic gates and stuff
-- 💞️ I’m looking to collaborate on some rust project
 - 📫 How to reach me SildCave#8430
 
 <!---
